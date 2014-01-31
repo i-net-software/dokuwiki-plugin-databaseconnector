@@ -1,0 +1,7 @@
+base   databaseconnector
+author i-net software
+email  tools@inetsoftware.de
+date   2010-12-15
+name   Database Connector Helper Plugin
+desc   Helper Plugin for easy connections to various databse types via standard functions.
+url    http://www.inetsoftware.de/products/other-products/dokuwiki-plugins/databaseconnector
