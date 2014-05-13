@@ -161,7 +161,7 @@ class helper_plugin_databaseconnector extends DokuWiki_Plugin { // DokuWiki_Help
 							break;
 		}
 
-		return $this->lastResultSet;
+		return null;
 	}
 
 	function execute() {
